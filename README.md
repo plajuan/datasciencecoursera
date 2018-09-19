@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Scrience Exercises
+Data Science Exercises
